@@ -1,4 +1,4 @@
-/**
+﻿/**
  * ==========================================================================
  * indesign plus CEO 신은호 모바일 명함 스크립트 (script.js)
  * 
@@ -22,7 +22,7 @@ const CONTACT_INFO = {
   address: "강원특별자치도 속초시 수복로85, 1층(교동)",
   website: "http://www.indesignplus.co.kr/main/",
   naverMap: "https://map.naver.com/v5/search/%EA%B0%95%EC%9B%90%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84%20%EC%86%8D%EC%B4%88%EC%8B%9C%20%EC%88%98%EB%B3%B5%EB%A1%9C85",
-  deployUrl: "https://my-card-blond-phi.vercel.app"
+  deployUrl: "https://alvin717.github.io/card-shin/"
 };
 
 // DOM이 완전히 로드된 후 실행
