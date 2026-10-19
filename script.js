@@ -1,6 +1,6 @@
-﻿/**
+/**
  * ==========================================================================
- * indesign plus CEO 신은호 모바일 명함 스크립트 (script.js)
+ * indesign CEO 신은호 모바일 명함 스크립트 (script.js)
  * 
  * - 주요 기능:
  *   1. 명함 이미지 터치 시 즉시 전화 걸기 (010-8691-2938)
@@ -14,7 +14,7 @@
 // 대표님 기본 연락처 정보 상수
 const CONTACT_INFO = {
   name: "신은호 대표",
-  company: "indesign plus",
+  company: "indesign",
   title: "CEO",
   phone: "010-8691-2938",
   cleanPhone: "01086912938",
@@ -127,8 +127,8 @@ function initShareFeatures() {
   // 실제 공유할 명함 웹페이지 주소
   const shareUrl = CONTACT_INFO.deployUrl;
 
-  const shareTitle = `[indesign plus] CEO 신은호 모바일 명함`;
-  const shareText = `indesign plus CEO 신은호 공식 모바일 명함입니다.\n(터치 시 010-8691-2938 로 즉시 통화 연결)\n📍 주소: ${CONTACT_INFO.address}`;
+  const shareTitle = `[indesign] CEO 신은호 모바일 명함`;
+  const shareText = `indesign CEO 신은호 공식 모바일 명함입니다.\n(터치 시 010-8691-2938 로 즉시 통화 연결)\n📍 주소: ${CONTACT_INFO.address}`;
 
   // 카카오톡 공유 버튼
   if (btnShareKakao) {

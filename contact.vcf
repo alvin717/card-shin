@@ -1,12 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
 N:신;은호;;;
-FN:신은호 대표 (indesign plus)
-ORG:indesign plus;
+FN:신은호 대표 (indesign)
+ORG:indesign;
 TITLE:CEO
 TEL;TYPE=CELL;TYPE=VOICE;TYPE=pref:010-8691-2938
 EMAIL;TYPE=INTERNET;TYPE=WORK;TYPE=pref:eunho2546@naver.com
 ADR;TYPE=WORK;TYPE=pref:;;강원특별자치도 속초시 수복로85, 1층(교동);;;;
 URL;TYPE=WORK:http://www.indesignplus.co.kr/main/
-NOTE:indesign plus CEO 신은호 공식 모바일 명함
+NOTE:indesign CEO 신은호 공식 모바일 명함
 END:VCARD
